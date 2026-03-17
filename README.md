@@ -85,6 +85,11 @@ Automated tests can be triggered:
 - On every code push
 - During pull requests
 - Before deployment
+Test Execution Example
+
+Below is an example of the automated tests running unsuccessfully.
+
+![Test Execution](Billing Screenshort.png)
 
 This helps ensure that new changes do not introduce regressions into the application.
 
