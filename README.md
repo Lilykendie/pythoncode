@@ -87,8 +87,8 @@ Automated tests can be triggered:
 - Before deployment
 
 This helps ensure that new changes do not introduce regressions into the application.
- Future Improvements
 
+ Future Improvements
 - Add API test automation
 - Integrate automated tests into a CI/CD pipeline
 - Increase test coverage for additional modules
