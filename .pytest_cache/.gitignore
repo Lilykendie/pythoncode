@@ -1,0 +1,8 @@
+# ignore environment variables
+.env
+# ignore pytest cache
+.pytest_cache/
+# ignore Python bytecode files
+*.pyc
+# ignore virtual environment directories
+venv/
